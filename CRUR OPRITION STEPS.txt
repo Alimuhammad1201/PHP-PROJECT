@@ -1,0 +1,24 @@
+       
+
+
+
+          CRUD OPERATION
+          
+          C = CREATE RECORD / INSERT RECORD.
+          R = READ RECORD / VIEW RECORD.
+          U = UPDATE RECORD / EDIT AND UPDATE RECORD.
+          D = DISTORY RECORD / DELETE RECORD.
+  
+          =========================================================
+          THERE ARE SIX STEPS FOR INSERTING DATA INTO YOUR DATABASE.
+
+          1) APPLY FORM ELEMENT INTO YOUR HTML PAGE.
+          2) KEEP YOUR TEXTFILED NAME PROPERLY.
+          3) CONNECT YOUR DATABASE.
+          4) COLECT YOUR FROM DATA FROM HTML PAGE.
+          5) APPLY INSERT INTO QUERY.
+          6) REDIRCET YOUR PAGE.
+          
+
+   
+          
